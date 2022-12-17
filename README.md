@@ -3,13 +3,21 @@
 Simple Microservices with SpringCloud
 
 -Currency Exchange Microservice
+
 -JPA
+
 -Currency Conversion Microservice
+
 -Proxy
+
 -Naming Server
+
 -Eureka
+
 -API Gateway
+
 -Routes
+
 -Logger
 
 
