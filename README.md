@@ -20,6 +20,10 @@ Simple Microservices with SpringCloud
 
 -Logger
 
+ -Docker
+ 
+ -Zipkin
+
 
 
 Currency Conversion Microservice-------->Currency Exchange Microservice-------->Database
